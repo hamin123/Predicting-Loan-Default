@@ -1,8 +1,8 @@
-# loandefault
+# Predicting Loan Defaults
 
 ## Steps to Solve the Loan Default Problem¶
-1). Problem Statement
-2). Exploratory Data Analysis
+- Problem Statement
+- Exploratory Data Analysis
 3). Preprocessing
 4). Feature Selection and Importance
 5). Initial Classification for Exploration
