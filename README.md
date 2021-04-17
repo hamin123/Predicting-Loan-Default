@@ -1,6 +1,6 @@
 # Predicting Loan Defaults
 
-## Steps to Solve the Loan Default Problem¶
+## Steps to Solve the Loan Default Problem
 - Problem Statement
 - Exploratory Data Analysis
 - Preprocessing
